@@ -1,0 +1,33 @@
+{
+    "version": 2,
+    "inquiries": [
+        {
+            "id": "DSGTeopm7L44CwdkwzSzJ",
+            "query": "SELECT *\nFROM Companies",
+            "viewType": "chart",
+            "viewOptions": {
+                "data": [],
+                "layout": {
+                    "xaxis": {
+                        "range": [
+                            -1,
+                            6
+                        ],
+                        "autorange": true
+                    },
+                    "yaxis": {
+                        "range": [
+                            -1,
+                            4
+                        ],
+                        "autorange": true
+                    },
+                    "autosize": true
+                },
+                "frames": []
+            },
+            "name": "Start",
+            "createdAt": "2024-09-12T10:51:58.628Z"
+        }
+    ]
+}
